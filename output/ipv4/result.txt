@@ -1,13 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-05 06:44:52,http://198.204.240.250:82/live/cctv1.m3u8
+2026-07-05 19:21:45,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-13,http://221.193.168.224:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+天津卫视,http://125.42.151.195:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️广东频道,#genre#
@@ -35,7 +37,6 @@ CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
-仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 

@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-15 06:43:51,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+2026-07-15 19:19:02,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 

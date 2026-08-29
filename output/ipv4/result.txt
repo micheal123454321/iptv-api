@@ -1,10 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-29 22:46:11,http://115.48.161.239:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-30 07:41:03,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
-CCTV-2,http://115.48.161.239:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://115.48.161.239:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://115.48.161.239:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 💰央视付费频道,#genre#
@@ -16,28 +13,22 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 
 📡卫视频道,#genre#
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-湖南卫视,http://115.48.161.239:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://222.136.68.235:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://222.136.68.235:9901/tsfile/live/1118_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://222.136.68.235:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-河北卫视,http://222.136.68.235:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-江西卫视,http://222.136.68.235:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://222.136.68.235:9901/tsfile/live/1119_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://222.136.68.235:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://222.136.68.235:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+新疆卫视,http://222.136.68.235:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️广东频道,#genre#
@@ -52,7 +43,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-优漫卡通,http://222.136.68.235:9901/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️辽宁频道,#genre#
 
@@ -115,7 +105,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://222.136.68.235:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
